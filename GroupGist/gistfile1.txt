@@ -1,0 +1,73 @@
+Project: Little Shop Redux
+
+Group Member Names: Anna Royer, Luis Garcia, Luke Chambers
+
+Project Expectations: What does each group member hope to get out of this project?
+
+Goals and expectations:
+* Get a better understanding of Active Record
+* Get a better understanding of Sinatra
+* Get comfortable writing model tests in RSpec and feature tests in RSpec/ Capybara
+* Get more comfortable with remote workflow
+* Communicate clearly and honestly with one another
+* Intention to check in consistently and re-DTR when necessary (second DTR time Friday after school)
+* Practice breaking the specs down into smaller problems and TDDing 
+* Learn CSS
+
+Team strengths:
+* Luke is excellent at data manipulation
+* Luis has basic foundation in these tools and domains
+* solid gitflow
+* Hard workers with high standards
+
+How to overcome obstacles:
+* Communication and asking questions
+* Seeking help: first with one another, then with peers, then mentors, then instructors
+* Don't struggle for much longer than 30 minutes before reaching out
+
+Schedule Expectations (When are we available to work together and individually?):
+* Be available until 8 on school evenings --> plan to mostly work in person together after school
+* Aim to not meet in person over the weekend (because members will be remote), but we will decide whether we need to meet over the weekend on Friday in case we end up being pressed for time
+
+Communication Expectations (How and often will we communicate? How do we keep lines of communication open?):
+* Slack
+* Texting 
+* Send a slack message when you submit a PR
+* Give each other daily updates at a minimum (whether that be over slack or in person)
+* Don't merge your own PRs!!!
+
+Abilities Expectations (Technical strengths and areas for desired improvement):
+* areas for improvement: CSS
+* technical strengths: gitflow
+
+Workload Expectations (What features do we each want to work on?):
+* Do the first six iterations together
+* DTR on Friday about splitting up the rest of the responsibilities
+
+Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests):
+* Follow flawless git workflow
+* Use waffle io and keep up with Github issues
+* Particularly when working separately, pull requests should have detailed comments
+* The person approving a pull request should comment on the pull request they merge
+
+Expectations for giving and receiving feedback:
+* Luke appreciates blunt feedback
+* All feedback should be honest, respectful and actionable
+* Don't let issues fester and give feedback early and often
+
+Agenda to discuss project launch:
+* End of the day friday to complete full functionality of first 6 iterations
+* End of the day Tuesday have full functionality - something we would be willing to turn in (buffer for styling/ refactoring)
+* (Could do heroku extensions)
+* Over the weekend working remotely on views and styles
+* Monday - Tuesday do iterations 7-9
+* Then style and refactor on Wednesday
+
+Ideas:
+* It would cool to use sass?
+* Use a wireframe tool potentially
+
+Tools:
+* waffle io
+
+Additional Notes:
