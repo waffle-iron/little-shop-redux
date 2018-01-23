@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/garcia50/little-shop-redux.png?columns=all)](https://waffle.io/garcia50/little-shop-redux?utm_source=badge)
 ---
 layout: page
 ---
